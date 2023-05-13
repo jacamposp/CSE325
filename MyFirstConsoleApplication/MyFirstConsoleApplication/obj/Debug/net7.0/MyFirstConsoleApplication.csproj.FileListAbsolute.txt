@@ -1,0 +1,15 @@
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net7.0\MyFirstConsoleApplication.exe
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net7.0\MyFirstConsoleApplication.deps.json
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net7.0\MyFirstConsoleApplication.runtimeconfig.json
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net7.0\MyFirstConsoleApplication.dll
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net7.0\MyFirstConsoleApplication.pdb
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net7.0\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net7.0\MyFirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net7.0\MyFirstConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net7.0\MyFirstConsoleApplication.AssemblyInfo.cs
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net7.0\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net7.0\MyFirstConsoleApplication.dll
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net7.0\refint\MyFirstConsoleApplication.dll
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net7.0\MyFirstConsoleApplication.pdb
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net7.0\MyFirstConsoleApplication.genruntimeconfig.cache
+C:\Users\Joel Campos\source\repos\CSE325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net7.0\ref\MyFirstConsoleApplication.dll
